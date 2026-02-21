@@ -1,11 +1,175 @@
 {
   "meta": {
-    "lastUpdated": "2026-02-21T17:00:54.601892+09:00",
+    "lastUpdated": "2026-02-21T17:21:55.452847+09:00",
     "latestRound": 1211,
-    "totalRounds": 1207,
+    "totalRounds": 1211,
     "schemaVersion": "1.0"
   },
   "draws": [
+    {
+      "round": 1,
+      "drawDate": "20021207",
+      "numbers": [
+        10,
+        23,
+        29,
+        33,
+        37,
+        40
+      ],
+      "bonusNumber": 16,
+      "rank1": {
+        "winners": 0,
+        "prizePerPerson": 0,
+        "totalPrize": 863604600
+      },
+      "rank2": {
+        "winners": 1,
+        "prizePerPerson": 143934100,
+        "totalPrize": 0
+      },
+      "rank3": {
+        "winners": 28,
+        "prizePerPerson": 5140500,
+        "totalPrize": 0
+      },
+      "rank4": {
+        "winners": 2537,
+        "prizePerPerson": 113400,
+        "totalPrize": 0
+      },
+      "rank5": {
+        "winners": 40155,
+        "prizePerPerson": 10000,
+        "totalPrize": 0
+      },
+      "totalWinners": 42721,
+      "salesAmount": 3681782000,
+      "totalSalesAmount": 3681782000
+    },
+    {
+      "round": 2,
+      "drawDate": "20021214",
+      "numbers": [
+        9,
+        13,
+        21,
+        25,
+        32,
+        42
+      ],
+      "bonusNumber": 2,
+      "rank1": {
+        "winners": 1,
+        "prizePerPerson": 2002006800,
+        "totalPrize": 0
+      },
+      "rank2": {
+        "winners": 2,
+        "prizePerPerson": 94866800,
+        "totalPrize": 0
+      },
+      "rank3": {
+        "winners": 103,
+        "prizePerPerson": 1842000,
+        "totalPrize": 0
+      },
+      "rank4": {
+        "winners": 3763,
+        "prizePerPerson": 100800,
+        "totalPrize": 0
+      },
+      "rank5": {
+        "winners": 55480,
+        "prizePerPerson": 10000,
+        "totalPrize": 0
+      },
+      "totalWinners": 59349,
+      "salesAmount": 4904274000,
+      "totalSalesAmount": 4904274000
+    },
+    {
+      "round": 3,
+      "drawDate": "20021221",
+      "numbers": [
+        11,
+        16,
+        19,
+        21,
+        27,
+        31
+      ],
+      "bonusNumber": 30,
+      "rank1": {
+        "winners": 1,
+        "prizePerPerson": 2000000000,
+        "totalPrize": 0
+      },
+      "rank2": {
+        "winners": 0,
+        "prizePerPerson": 0,
+        "totalPrize": 0
+      },
+      "rank3": {
+        "winners": 139,
+        "prizePerPerson": 1174100,
+        "totalPrize": 0
+      },
+      "rank4": {
+        "winners": 5940,
+        "prizePerPerson": 54900,
+        "totalPrize": 0
+      },
+      "rank5": {
+        "winners": 73256,
+        "prizePerPerson": 10000,
+        "totalPrize": 0
+      },
+      "totalWinners": 79336,
+      "salesAmount": 4729342000,
+      "totalSalesAmount": 4729342000
+    },
+    {
+      "round": 4,
+      "drawDate": "20021228",
+      "numbers": [
+        14,
+        27,
+        30,
+        31,
+        40,
+        42
+      ],
+      "bonusNumber": 2,
+      "rank1": {
+        "winners": 0,
+        "prizePerPerson": 0,
+        "totalPrize": 1267147200
+      },
+      "rank2": {
+        "winners": 1,
+        "prizePerPerson": 211191200,
+        "totalPrize": 0
+      },
+      "rank3": {
+        "winners": 29,
+        "prizePerPerson": 7282400,
+        "totalPrize": 0
+      },
+      "rank4": {
+        "winners": 2777,
+        "prizePerPerson": 152100,
+        "totalPrize": 0
+      },
+      "rank5": {
+        "winners": 52382,
+        "prizePerPerson": 10000,
+        "totalPrize": 0
+      },
+      "totalWinners": 55189,
+      "salesAmount": 5271464000,
+      "totalSalesAmount": 5271464000
+    },
     {
       "round": 5,
       "drawDate": "20030104",
