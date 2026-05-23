@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-16T21:00:01.848993+09:00",
-    "latestRound": 1224,
-    "totalRounds": 1224,
+    "lastUpdated": "2026-05-23T21:00:01.259358+09:00",
+    "latestRound": 1225,
+    "totalRounds": 1225,
     "schemaVersion": "1.0"
   },
   "draws": [
@@ -50189,6 +50189,47 @@
       "totalWinners": 2886425,
       "salesAmount": 60555204552,
       "totalSalesAmount": 121110408000
+    },
+    {
+      "round": 1225,
+      "drawDate": "20260523",
+      "numbers": [
+        8,
+        9,
+        19,
+        25,
+        41,
+        42
+      ],
+      "bonusNumber": 33,
+      "rank1": {
+        "winners": 13,
+        "prizePerPerson": 2228133087,
+        "totalPrize": 28965730131
+      },
+      "rank2": {
+        "winners": 76,
+        "prizePerPerson": 63521338,
+        "totalPrize": 4827621688
+      },
+      "rank3": {
+        "winners": 3333,
+        "prizePerPerson": 1448432,
+        "totalPrize": 4827623856
+      },
+      "rank4": {
+        "winners": 161090,
+        "prizePerPerson": 50000,
+        "totalPrize": 8054500000
+      },
+      "rank5": {
+        "winners": 2705194,
+        "prizePerPerson": 5000,
+        "totalPrize": 13525970000
+      },
+      "totalWinners": 2869706,
+      "salesAmount": 60201445675,
+      "totalSalesAmount": 120402887000
     }
   ]
 }
