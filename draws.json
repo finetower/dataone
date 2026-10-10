@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-03T21:00:31.492817+09:00",
-    "latestRound": 1243,
-    "totalRounds": 1243,
+    "lastUpdated": "2026-10-10T21:00:03.575467+09:00",
+    "latestRound": 1245,
+    "totalRounds": 1245,
     "schemaVersion": "1.0"
   },
   "draws": [
@@ -50968,6 +50968,88 @@
       "totalWinners": 3031525,
       "salesAmount": 64463211121,
       "totalSalesAmount": 128926419000
+    },
+    {
+      "round": 1244,
+      "drawDate": "20261003",
+      "numbers": [
+        1,
+        13,
+        18,
+        26,
+        34,
+        38
+      ],
+      "bonusNumber": 25,
+      "rank1": {
+        "winners": 18,
+        "prizePerPerson": 1604686625,
+        "totalPrize": 28884359250
+      },
+      "rank2": {
+        "winners": 80,
+        "prizePerPerson": 60175749,
+        "totalPrize": 4814059920
+      },
+      "rank3": {
+        "winners": 3731,
+        "prizePerPerson": 1290287,
+        "totalPrize": 4814060797
+      },
+      "rank4": {
+        "winners": 179216,
+        "prizePerPerson": 50000,
+        "totalPrize": 8960800000
+      },
+      "rank5": {
+        "winners": 2848954,
+        "prizePerPerson": 5000,
+        "totalPrize": 14244770000
+      },
+      "totalWinners": 3031999,
+      "salesAmount": 61718049967,
+      "totalSalesAmount": 123436098000
+    },
+    {
+      "round": 1245,
+      "drawDate": "20261010",
+      "numbers": [
+        4,
+        5,
+        25,
+        28,
+        32,
+        42
+      ],
+      "bonusNumber": 12,
+      "rank1": {
+        "winners": 10,
+        "prizePerPerson": 3006515775,
+        "totalPrize": 30065157750
+      },
+      "rank2": {
+        "winners": 91,
+        "prizePerPerson": 55064392,
+        "totalPrize": 5010859672
+      },
+      "rank3": {
+        "winners": 3102,
+        "prizePerPerson": 1615365,
+        "totalPrize": 5010862230
+      },
+      "rank4": {
+        "winners": 163177,
+        "prizePerPerson": 50000,
+        "totalPrize": 8158850000
+      },
+      "rank5": {
+        "winners": 2786728,
+        "prizePerPerson": 5000,
+        "totalPrize": 13933640000
+      },
+      "totalWinners": 2953108,
+      "salesAmount": 62179369652,
+      "totalSalesAmount": 124358734000
     }
   ]
 }
